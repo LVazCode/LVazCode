@@ -12,10 +12,10 @@
 ### 📊 Minhas estatísticas:
 <div>
   <a href-"https://github.com/LVazCode">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=LVazCode&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVazCode&layout=compact&langs_count=16&theme=catppuccin_latte"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=LVazCode&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <!--<img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVazCode&layout=compact&langs_count=16&theme=catppuccin_latte"/>-->
 </div>
-
+<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
