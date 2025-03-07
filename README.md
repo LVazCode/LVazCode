@@ -1,11 +1,11 @@
-## 👋 Olá, eu sou a Leticia Vaz!
+# ✨ Olá, seja bem-vindo(a) ao meu perfil!
 
 ### 🚀 Sobre mim:
 🎓Estudante de Análise e Desenvolvimento de Sistemas na **Universidade São Judas Tadeu** (2024–2026)
 
 📚Atualmente estudando **Java, SQL, Python, JavaScript e HTML**
 
-🔍 Interesse em **segurança da informação e boas práticas de desenvolvimento**  
+🔍 Interesse em **desenvolvimento de software, análise de dados e segurança da informação**  
 
 🎯 Sempre buscando novos desafios e aprendizados
 
