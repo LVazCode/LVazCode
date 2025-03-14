@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim:
 🎓Estudante de Análise e Desenvolvimento de Sistemas na **Universidade São Judas Tadeu** (2024–2026)
 
-📚Atualmente estudando **Java, SQL, Python, JavaScript e HTML**
+📚Atualmente estudando **Java, SQL, Python, e JavaScript**
 
 🔍 Interesse em **desenvolvimento de software, análise de dados e segurança da informação**  
 
